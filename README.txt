@@ -1,0 +1,1 @@
+collection of random python snipets using various libs and site packages. some software required
