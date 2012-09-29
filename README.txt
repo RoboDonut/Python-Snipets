@@ -1,7 +1,7 @@
 collection of random python snipets using various libs and site packages. some software required
 
 #-------------------------------------------------------------------------
-RESTtoCSV.py
+RESTtoCSV.py 9/28/2012
 Query ArcGIS Server REST endpoint dump results into a formatted CSV. 
 current version works for point reatures. 
 No authentication. 
